@@ -1,8 +1,1 @@
-n = int(input())
-c = int(input())
-p = int(input())
-total=n-c*p
-if total<=0:
-    print("yes")
-if total>0:
-    print("no")
+ learned to check those small details carefully like adding a comma, because sometimes I got error for those tiny mistakes
